@@ -4,7 +4,7 @@
 
 You can found more information on:
 
-*[JavaScript Fundamentals](https://platzi.com/clases/javascript-pro-2016/)
+[JavaScript Definitive Course](https://platzi.com/clases/javascript-pro-2016/)
 from [Platzi](https://platzi.com).
 
 ## License
